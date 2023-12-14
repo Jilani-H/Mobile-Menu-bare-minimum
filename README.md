@@ -6,8 +6,8 @@
 ### Install dependencies
 
 ```bash
-@nextui-org/button
-react
-react-icons/gi
-react-icons/io5
+npm i @nextui-org/button
+npm i react
+npm i react-icons/gi
+npm i react-icons/io5
 ```
